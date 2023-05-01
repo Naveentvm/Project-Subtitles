@@ -1,0 +1,1015 @@
+﻿1
+00:00:00,450 --> 00:00:03,568
+First of all, before this video starts,
+I would like to give a big thank you
+
+2
+00:00:03,593 --> 00:00:05,000
+to all of my new subscribers.
+
+3
+00:00:05,001 --> 00:00:09,000
+I was not expecting even one
+subscriber to be honest, so to wake up this
+
+4
+00:00:09,001 --> 00:00:11,000
+morning and see a
+hundred people following me,
+
+5
+00:00:11,001 --> 00:00:16,000
+I was a bit surprised. So thank you
+so much for liking my content, and I
+
+6
+00:00:16,001 --> 00:00:19,000
+hope you stick around in the
+future for even more content.
+
+7
+00:00:26,000 --> 00:00:30,000
+About two days ago, I gave my final
+presentation on my senior project, which
+
+8
+00:00:30,150 --> 00:00:32,000
+fingers crossed went really well,
+
+9
+00:00:32,001 --> 00:00:37,000
+meaning that in a couple of weeks
+now, I will finally graduate college.
+
+10
+00:00:38,985 --> 00:00:44,000
+I mean, it just feels so great to finally
+be free of homework assignments,
+
+11
+00:00:44,001 --> 00:00:49,000
+projects, and free from the goddamn
+elevator that breaks every two weeks.
+
+12
+00:00:49,001 --> 00:00:52,619
+Finally, I'm able to do
+whatever I want as a free adult.
+
+13
+00:00:57,406 --> 00:01:02,000
+Who are you? Yeah, Hi. Did
+you check your bank account?
+
+14
+00:01:02,025 --> 00:01:05,024
+What do you mean, check?
+Just check your bank account.
+
+15
+00:01:07,750 --> 00:01:14,000
+Oh, yeah. Yeah, I should probably
+get a job. It's kind of funny how college
+
+16
+00:01:14,225 --> 00:01:17,000
+just kind of takes your
+money in the after four years,
+
+17
+00:01:17,350 --> 00:01:21,000
+throws you out to the streets, and
+says, "Good luck on finding a job!"
+
+18
+00:01:21,100 --> 00:01:24,000
+And, you know, please, when you get
+money, pay us even more. It's like the
+
+19
+00:01:24,001 --> 00:01:25,000
+first couple thousand dollars
+
+20
+00:01:25,001 --> 00:01:29,000
+were not enough for them, but I do
+want to agree that college does not have
+
+21
+00:01:29,001 --> 00:01:31,000
+to baby you through all the steps of life.
+
+22
+00:01:31,325 --> 00:01:35,000
+Finding a career is something
+that you have to do all on your own.
+
+23
+00:01:35,001 --> 00:01:40,000
+But anyway, because I'm soon going
+to need to find a job, I wanted to spend
+
+24
+00:01:40,001 --> 00:01:42,064
+some time and
+research a little bit about
+
+25
+00:01:42,076 --> 00:01:44,000
+the possible jobs
+there are out there.
+
+26
+00:01:44,350 --> 00:01:48,467
+Because one of the beautiful things
+about being a programmer is that you're
+
+27
+00:01:48,492 --> 00:01:51,051
+not really limited to
+just working in one field,
+
+28
+00:01:51,076 --> 00:01:55,000
+which is amazing because
+imagine if you're majoring in art
+
+29
+00:01:55,001 --> 00:01:59,000
+history, I'm so sorry, but here we
+out put down your paint brushes.
+
+30
+00:01:59,001 --> 00:02:02,000
+No, I don't think art historians paint.
+
+31
+00:02:02,400 --> 00:02:09,000
+Put down your art textbooks. What I
+mean by this is that as an art historian,
+
+32
+00:02:09,225 --> 00:02:14,000
+I think the only place you really
+work in is a museum or something.
+
+33
+00:02:14,200 --> 00:02:19,000
+As a programmer, however, you have
+many different fields to choose from. You
+
+34
+00:02:19,150 --> 00:02:22,000
+could work as a programmer in
+the medical field. You could work as a
+
+35
+00:02:22,001 --> 00:02:24,000
+programmer in the finance field.
+
+36
+00:02:24,001 --> 00:02:29,000
+You can work in robotics, in avionics,
+heck, you could even work at Roblox.
+
+37
+00:02:29,001 --> 00:02:33,000
+You're laughing, but I kid you
+not, that's where the real money is.
+
+38
+00:02:33,075 --> 00:02:36,026
+Look it up, I swear. And so today
+I'm going to spend a little bit time going
+
+39
+00:02:36,050 --> 00:02:41,000
+through various different fields and
+figuring out what they are and what it
+
+40
+00:02:41,001 --> 00:02:44,000
+takes to become whatever
+it is you're going to become.
+
+41
+00:02:44,001 --> 00:02:47,000
+Disclaimer, I spent a little bit of
+time researching this so that I don't
+
+42
+00:02:47,001 --> 00:02:51,000
+sound like an idiot. But if I do get
+something wrong, please let me know in
+
+43
+00:02:51,001 --> 00:02:51,000
+the comments.
+
+44
+00:02:51,001 --> 00:02:56,000
+After a little bit of researching, I've
+compiled a bit of information about
+
+45
+00:02:56,001 --> 00:02:58,000
+some of the most popular jobs there are.
+
+46
+00:02:58,025 --> 00:03:03,000
+And the most basic jobs that usually
+pop up are computer programmers and
+
+47
+00:03:03,001 --> 00:03:04,000
+software engineers.
+
+48
+00:03:04,001 --> 00:03:08,000
+Now you might be thinking, aren't
+those the same thing? I mean, they surely
+
+49
+00:03:08,001 --> 00:03:09,041
+sound like the same thing.
+
+50
+00:03:09,225 --> 00:03:13,000
+I mean, a software engineer just
+kind of sounds like a fancier version of a
+
+51
+00:03:13,001 --> 00:03:14,000
+computer programmer.
+
+52
+00:03:14,001 --> 00:03:18,000
+Oh, what do you do for a job? Oh, I
+write computer programs. Oh, cool, cool.
+
+53
+00:03:18,001 --> 00:03:21,543
+What do you do for a job?
+I engineer software.
+
+54
+00:03:23,057 --> 00:03:28,000
+Oh, okay. But there is a difference though.
+So let me first explain what a
+
+55
+00:03:28,001 --> 00:03:29,000
+computer programmer is.
+
+56
+00:03:29,001 --> 00:03:33,000
+A computer programmer at the most
+basic level is someone who can write,
+
+57
+00:03:33,001 --> 00:03:35,000
+modify, and test code.
+
+58
+00:03:35,001 --> 00:03:37,000
+Although we all know that you're
+probably going to spend like 10% of the
+
+59
+00:03:37,001 --> 00:03:38,000
+time writing code.
+
+60
+00:03:38,001 --> 00:03:41,000
+The other 90% of the time baying
+your head against the wall because
+
+61
+00:03:41,001 --> 00:03:42,001
+something isn't working.
+
+62
+00:03:42,100 --> 00:03:46,000
+Don't you just love being a programmer?
+You should generally be proficient
+
+63
+00:03:46,250 --> 00:03:48,000
+in at least one type of language
+
+64
+00:03:48,001 --> 00:03:51,000
+and have a basic knowledge of computer
+science principles. So we help us to
+
+65
+00:03:51,001 --> 00:03:52,000
+see what's trending
+
+66
+00:03:52,001 --> 00:03:56,000
+at the time in the programming world
+to see what language you should learn.
+
+67
+00:03:56,001 --> 00:03:57,000
+And now we have the
+
+68
+00:03:57,001 --> 00:04:01,000
+software engineer. To put it simply,
+they're not only responsible for
+
+69
+00:04:01,001 --> 00:04:02,000
+writing the code,
+
+70
+00:04:02,001 --> 00:04:05,000
+they're responsible for coming up
+with the concept of the code. You can
+
+71
+00:04:05,001 --> 00:04:06,000
+think of this as a mechanic
+
+72
+00:04:06,001 --> 00:04:11,000
+is able to put a car together with
+a bunch of parts, but a mechanical.
+
+73
+00:04:11,375 --> 00:04:13,000
+engineer can understand
+
+74
+00:04:13,001 --> 00:04:17,000
+the individual functionality of each
+part as well as probably design the car
+
+75
+00:04:17,028 --> 00:04:17,841
+from scratch himself.
+
+76
+00:04:17,875 --> 00:04:22,000
+These two fields work together in
+a way where the software engineer
+
+77
+00:04:22,001 --> 00:04:24,063
+spends time developing
+a specific software
+
+78
+00:04:24,075 --> 00:04:26,000
+and then works
+together with a bunch of
+
+79
+00:04:26,001 --> 00:04:27,000
+computer programmers
+
+80
+00:04:27,001 --> 00:04:31,000
+to make the completed version of the
+software. And now the most important
+
+81
+00:04:31,001 --> 00:04:33,000
+part, salary. According to
+
+82
+00:04:33,001 --> 00:04:39,000
+the Bureau of Labor Statistics, computer
+programmers earn an average of 93k
+
+83
+00:04:39,001 --> 00:04:41,000
+a year, which is pretty good
+
+84
+00:04:41,001 --> 00:04:46,000
+if I say so myself. While a software
+engineer averages at 120k a year, but
+
+85
+00:04:46,001 --> 00:04:47,001
+do not confuse this
+
+86
+00:04:47,150 --> 00:04:52,000
+with the starting salary. On average
+for a starting salary, I'm seeing
+
+87
+00:04:52,025 --> 00:04:54,000
+online a mix between
+
+88
+00:04:54,001 --> 00:04:58,000
+60k a year or 70k a year at a
+starting salary. If you're lucky, you could
+
+89
+00:04:58,001 --> 00:05:00,000
+get something higher than that
+
+90
+00:05:00,025 --> 00:05:05,000
+and if you get something lower than that.
+Anyway, let's move away from these
+
+91
+00:05:05,001 --> 00:05:06,000
+really broad career
+
+92
+00:05:06,001 --> 00:05:09,000
+topics. And I want to talk a little
+bit about these three jobs that I keep
+
+93
+00:05:09,001 --> 00:05:10,001
+seeing pop up,
+
+94
+00:05:10,300 --> 00:05:14,000
+which let's start with front end
+development. Front end development works at
+
+95
+00:05:14,150 --> 00:05:16,417
+the front end of
+applications, which is
+
+96
+00:05:16,429 --> 00:05:19,000
+where the UI exists.
+You're dealing with the
+
+97
+00:05:19,001 --> 00:05:20,000
+buttons, you're dealing
+
+98
+00:05:20,001 --> 00:05:23,000
+with the images, you're dealing
+with the layout and the design of the
+
+99
+00:05:23,001 --> 00:05:24,000
+website itself. Now,
+
+100
+00:05:24,001 --> 00:05:27,000
+this point has seemed like
+something really difficult, but in fact, it
+
+101
+00:05:27,001 --> 00:05:29,000
+actually is pretty hard to
+
+102
+00:05:29,025 --> 00:05:32,054
+create a really
+good user interface.
+
+103
+00:05:34,407 --> 00:05:35,633
+What is going on here?
+
+104
+00:05:39,525 --> 00:05:41,075
+What am I looking
+at? And so if you're
+
+105
+00:05:41,100 --> 00:05:44,000
+going to be working with the UI,
+it's definitely going to require a bit of
+
+106
+00:05:44,001 --> 00:05:45,001
+more creative
+
+107
+00:05:45,150 --> 00:05:49,000
+psychology. And that's essentially all
+that front end development is. You're
+
+108
+00:05:49,001 --> 00:05:50,000
+going to need to know
+
+109
+00:05:50,001 --> 00:05:56,000
+a little bit of HTML or CSS. Now,
+moving on to, I wouldn't call the opposite
+
+110
+00:05:56,001 --> 00:05:57,000
+of it, but at the
+
+111
+00:05:57,001 --> 00:06:01,000
+opposite end of front end, you have
+the back end, the back end deals with
+
+112
+00:06:01,001 --> 00:06:02,000
+the functionality of the
+
+113
+00:06:02,001 --> 00:06:06,000
+front end. So you have the buttons,
+you have the very cool, the animated
+
+114
+00:06:06,001 --> 00:06:07,001
+portfolio website,
+
+115
+00:06:07,250 --> 00:06:11,000
+but do the buttons work. Do you need
+a database that you need to search? All
+
+116
+00:06:11,001 --> 00:06:12,000
+of this is the
+
+117
+00:06:12,001 --> 00:06:16,000
+responsibility of the backend developer.
+For this, you would mainly learn
+
+118
+00:06:16,001 --> 00:06:18,000
+maybe JavaScript. There's
+
+119
+00:06:18,001 --> 00:06:20,000
+also a bunch of other languages out there.
+You have the love child, the full
+
+120
+00:06:20,001 --> 00:06:21,000
+stack developer,
+
+121
+00:06:21,001 --> 00:06:26,000
+full stack developers work in both front
+end and back end development. They
+
+122
+00:06:26,001 --> 00:06:28,036
+are the Jack of all
+trades. Now, let's talk
+
+123
+00:06:28,048 --> 00:06:30,000
+about salaries. This
+is where I got a bit
+
+124
+00:06:30,001 --> 00:06:32,000
+confused looking up online
+
+125
+00:06:32,001 --> 00:06:37,000
+because they're giving a bunch of
+different variety of salaries. Like, and
+
+126
+00:06:37,001 --> 00:06:38,000
+I'm just going to say
+
+127
+00:06:38,001 --> 00:06:41,026
+that I think they're
+all within the range
+
+128
+00:06:41,038 --> 00:06:44,000
+of 100k. Again, not
+the starting salary,
+
+129
+00:06:44,001 --> 00:06:49,493
+but the possible future salary.
+Going even deeper down the rabbit hole,
+
+130
+00:06:49,518 --> 00:06:52,346
+There're even more
+specific specializations.
+
+131
+00:06:52,371 --> 00:06:55,000
+Cyber security is a field
+where you're working
+
+132
+00:06:55,001 --> 00:06:56,000
+with encryption and making
+
+133
+00:06:56,001 --> 00:07:01,000
+sure that data in websites or
+applications is not get leaked to hackers.
+
+134
+00:07:01,001 --> 00:07:03,000
+There's also cloud computing.
+
+135
+00:07:03,025 --> 00:07:06,000
+This is a field where essentially
+working on delivering different types of
+
+136
+00:07:06,001 --> 00:07:08,000
+computer resources to
+
+137
+00:07:08,001 --> 00:07:11,459
+different people over the Internet.
+Another important field is data
+
+138
+00:07:11,484 --> 00:07:13,000
+scientists, which are people
+
+139
+00:07:13,001 --> 00:07:17,859
+who work on a load of data that is
+given to them and try to make sense of it.
+
+140
+00:07:17,884 --> 00:07:19,000
+The reason I'm able
+
+141
+00:07:19,001 --> 00:07:23,000
+to look up all the salaries is because
+some data scientists did their job.
+
+142
+00:07:23,001 --> 00:07:24,000
+And there was just so
+
+143
+00:07:24,001 --> 00:07:27,000
+many more specialized jobs out
+there that if I try to put them all in one
+
+144
+00:07:27,001 --> 00:07:28,000
+video, I would be sitting
+
+145
+00:07:28,001 --> 00:07:32,000
+here for an hour and that's just
+going to be too long to edit. So I'm not
+
+146
+00:07:32,001 --> 00:07:33,000
+going to go any further.
+
+147
+00:07:33,001 --> 00:07:36,000
+I'm going to link some pages of
+where I found all this information. If you
+
+148
+00:07:36,001 --> 00:07:37,000
+want to take a look at
+
+149
+00:07:37,001 --> 00:07:41,000
+some more fields that there are.
+But for now, I'm going to move on to two
+
+150
+00:07:41,001 --> 00:07:42,000
+fields that I find
+
+151
+00:07:42,001 --> 00:07:45,000
+incredibly interesting myself.
+The first is game development. Now, this
+
+152
+00:07:45,001 --> 00:07:46,000
+career in itself has many
+
+153
+00:07:46,001 --> 00:07:48,854
+different paths. You could
+think of it as all of the different
+
+154
+00:07:48,879 --> 00:07:50,362
+specializations
+that I said before
+
+155
+00:07:50,387 --> 00:07:54,000
+where in game development, you could
+either work as a game programmer, a
+
+156
+00:07:54,001 --> 00:07:56,000
+game designer. And most
+
+157
+00:07:56,001 --> 00:07:59,000
+importantly, I would say you could
+work as an indie game developer. You
+
+158
+00:07:59,001 --> 00:08:00,000
+don't have to work sitting
+
+159
+00:08:00,001 --> 00:08:04,000
+there nine to five, killing your
+eyes, killing your back, killing your
+
+160
+00:08:04,025 --> 00:08:05,024
+social life. Instead, you
+
+161
+00:08:05,502 --> 00:08:09,000
+could work from home and develop
+games on your own or maybe in small teams.
+
+162
+00:08:09,001 --> 00:08:10,000
+Technology is getting
+
+163
+00:08:10,001 --> 00:08:14,179
+so advanced in game development
+that this is fully possible. And I think
+
+164
+00:08:14,204 --> 00:08:15,544
+it's a lot more comfortable.
+
+165
+00:08:16,000 --> 00:08:21,000
+And lastly, one of the most in demand
+fields there are right now is AI and
+
+166
+00:08:21,001 --> 00:08:23,000
+machine learning development.
+
+167
+00:08:23,001 --> 00:08:27,000
+Now, I know you've probably seen it
+everywhere. How AI is on the rise. And
+
+168
+00:08:27,001 --> 00:08:28,000
+yeah, AI is getting
+
+169
+00:08:28,001 --> 00:08:32,000
+incredibly powerful. Just in the last
+couple of months, there's been so much
+
+170
+00:08:32,100 --> 00:08:34,000
+progress and development
+
+171
+00:08:34,001 --> 00:08:37,000
+in machine learning and AI that honestly,
+it really scared me for a bit. But
+
+172
+00:08:37,001 --> 00:08:38,000
+then I sat back and
+
+173
+00:08:38,001 --> 00:08:43,000
+realized this isn't the Terminator.
+I'll be back. And that's the thing. I
+
+174
+00:08:43,001 --> 00:08:44,000
+don't think many people
+
+175
+00:08:44,001 --> 00:08:49,000
+realize that AI is not the supercomputer
+that can think on its own. Well,
+
+176
+00:08:50,150 --> 00:08:55,000
+it actually is kind of that, but it's
+still just a bunch of code. We're not
+
+177
+00:08:55,001 --> 00:08:56,000
+at the level yet,
+
+178
+00:08:56,001 --> 00:09:01,000
+where AI can effectively think on its
+own without having some human sitting
+
+179
+00:09:01,001 --> 00:09:02,000
+there telling it what
+
+180
+00:09:02,001 --> 00:09:06,000
+it's doing wrong or right. Now, this
+is a field that is on the rise, but the
+
+181
+00:09:06,001 --> 00:09:07,000
+most popular language at
+
+182
+00:09:07,001 --> 00:09:12,000
+the moment to do AI development and
+machine learning in is Python, but you
+
+183
+00:09:12,001 --> 00:09:13,615
+can use it for variety
+of different languages
+
+184
+00:09:13,627 --> 00:09:15,000
+as well. And I would
+say for this, you
+
+185
+00:09:15,001 --> 00:09:16,000
+definitely need a bit of math.
+
+186
+00:09:16,001 --> 00:09:19,000
+You also have to understand some
+more in depth computer science concepts to
+
+187
+00:09:19,001 --> 00:09:20,001
+understand how to
+
+188
+00:09:20,150 --> 00:09:24,000
+program a neural network, but nothing
+code academy in a couple of YouTube
+
+189
+00:09:24,001 --> 00:09:25,001
+videos cannot teach you.
+
+190
+00:09:25,050 --> 00:09:29,000
+I will be making another video going
+more into depth about AI. So subscribe
+
+191
+00:09:29,001 --> 00:09:30,000
+if you are interested
+
+192
+00:09:30,001 --> 00:09:34,000
+in that. And yeah, that's pretty much
+some of the main jobs that I've looked
+
+193
+00:09:34,001 --> 00:09:35,000
+into. I do want to
+
+194
+00:09:35,001 --> 00:09:38,000
+close this video off by saying one
+last thing. And I think this is the most
+
+195
+00:09:38,001 --> 00:09:39,001
+important life lesson
+
+196
+00:09:39,150 --> 00:09:43,000
+that I have been told. See, when it
+comes to finding a job, people get this
+
+197
+00:09:43,001 --> 00:09:44,000
+misconception that they
+
+198
+00:09:44,001 --> 00:09:48,000
+have to look for their dream job or
+the job that they're going to absolutely
+
+199
+00:09:48,001 --> 00:09:49,000
+love to be in every
+
+200
+00:09:49,001 --> 00:09:54,000
+single day of the week. And that's
+just a bit of naive thinking. I'm not
+
+201
+00:09:54,001 --> 00:09:55,000
+saying that it's impossible
+
+202
+00:09:55,001 --> 00:09:59,000
+to find your dream jobs. There is
+multiple examples online out there where
+
+203
+00:09:59,050 --> 00:10:00,200
+people find their dream jobs,
+
+204
+00:10:00,550 --> 00:10:05,000
+but some people just don't really
+know right away what their dream job
+
+205
+00:10:05,001 --> 00:10:06,000
+is, or some people
+
+206
+00:10:06,001 --> 00:10:09,000
+just want to dabble in a bunch of fields.
+And so I feel like instead of
+
+207
+00:10:09,001 --> 00:10:10,081
+saying that you should find
+
+208
+00:10:10,150 --> 00:10:15,000
+your dream job, you should rather
+find a job that you tolerate at the very
+
+209
+00:10:15,001 --> 00:10:17,000
+least. You see, even in a
+
+210
+00:10:17,001 --> 00:10:21,000
+dream job, you're going to have bad days.
+You're going to have days where
+
+211
+00:10:21,001 --> 00:10:22,001
+you wish you can just
+
+212
+00:10:22,100 --> 00:10:26,000
+jump out the window. And that's
+fine because a job is a job. There's the
+
+213
+00:10:26,350 --> 00:10:28,000
+saying you work to live,
+
+214
+00:10:28,100 --> 00:10:32,000
+not live to work. I'm going to try and
+do a bunch of different projects, you
+
+215
+00:10:32,001 --> 00:10:33,000
+know, and post them on
+
+216
+00:10:33,001 --> 00:10:37,000
+this channel to basically just get
+a feel for what I personally and I'm
+
+217
+00:10:37,001 --> 00:10:38,000
+interested in. And I highly
+
+218
+00:10:38,001 --> 00:10:41,078
+encourage you to do the same
+thing. Anyway, thank you for watching.
+
+219
+00:10:41,344 --> 00:10:44,419
+Once again, thank you
+so much to all of my new
+
+220
+00:10:44,444 --> 00:10:47,606
+subscribers. And
+yeah, see you next time.
+
