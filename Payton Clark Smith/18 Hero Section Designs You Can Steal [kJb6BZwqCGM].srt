@@ -1,0 +1,1257 @@
+﻿1
+00:00:00,050 --> 00:00:02,725
+Are you sick of using
+the exact same layouts
+
+2
+00:00:02,750 --> 00:00:06,000
+for every hero section
+of every website?
+
+3
+00:00:06,100 --> 00:00:10,000
+Well in this video, I'm going to share
+with you 18 different hero variations
+
+4
+00:00:10,001 --> 00:00:13,566
+that you can steal to start
+using in your designs today.
+
+5
+00:00:13,591 --> 00:00:14,640
+Let's get into it.
+
+6
+00:00:14,665 --> 00:00:18,000
+Now the first hero layouts that I want
+to cover are those that I would classify
+
+7
+00:00:18,001 --> 00:00:19,001
+as Ol' Reliable.
+
+8
+00:00:19,225 --> 00:00:21,101
+These are layouts
+that you're going to see
+
+9
+00:00:21,113 --> 00:00:23,000
+all the time and there's
+a reason that you
+
+10
+00:00:23,001 --> 00:00:24,000
+see them all the time.
+
+11
+00:00:24,001 --> 00:00:28,000
+It's because they work in
+terms of conversion, usability.
+
+12
+00:00:28,200 --> 00:00:32,808
+And the first and probably most common
+is this classic left-right layout, right?
+
+13
+00:00:32,833 --> 00:00:36,414
+You've got your text and your call
+to action on the left and the image
+
+14
+00:00:36,439 --> 00:00:37,001
+on the right.
+
+15
+00:00:37,300 --> 00:00:40,526
+A good example of
+this is this stairs website
+
+16
+00:00:40,551 --> 00:00:42,000
+and you can see
+especially with a nice
+
+17
+00:00:42,001 --> 00:00:43,041
+graphic on the right side.
+
+18
+00:00:43,200 --> 00:00:46,182
+It's really going to bring
+this basic layout to life.
+
+19
+00:00:46,207 --> 00:00:49,000
+Another thing that you can do is
+take that image on the right side and
+
+20
+00:00:49,001 --> 00:00:50,000
+stretch it to the
+
+21
+00:00:50,001 --> 00:00:54,000
+height of the viewport and by doing
+this, it's going to create a little bit
+
+22
+00:00:54,025 --> 00:00:58,373
+more of a custom feel. And I
+really like this example by fino.
+
+23
+00:00:58,398 --> 00:01:00,758
+Now, both of these
+layouts can be flipped
+
+24
+00:01:00,783 --> 00:01:02,524
+and so rather than
+left-right, you're going
+
+25
+00:01:02,549 --> 00:01:03,001
+right-left.
+
+26
+00:01:03,150 --> 00:01:05,040
+Meaning you have the
+image on the left and
+
+27
+00:01:05,052 --> 00:01:07,000
+you have the text and
+call to action on the
+
+28
+00:01:07,001 --> 00:01:07,691
+right.
+
+29
+00:01:07,716 --> 00:01:11,552
+Now, while this is a nice way to
+shake it up, I don't really recommend that
+
+30
+00:01:11,577 --> 00:01:13,966
+you use this too
+often because typically
+
+31
+00:01:13,978 --> 00:01:17,000
+speaking with most
+languages, we read left
+
+32
+00:01:17,001 --> 00:01:17,580
+to right.
+
+33
+00:01:17,605 --> 00:01:21,000
+That's the way that we
+look at websites as well.
+
+34
+00:01:21,001 --> 00:01:22,506
+So, If you've got the
+image on the left, that's
+
+35
+00:01:22,518 --> 00:01:24,000
+typically going to
+be the first thing that
+
+36
+00:01:24,001 --> 00:01:25,000
+people look at.
+
+37
+00:01:25,001 --> 00:01:29,000
+So unless you've got a really powerful
+image that conveys your message and
+
+38
+00:01:29,001 --> 00:01:30,001
+your value proposition,
+
+39
+00:01:30,375 --> 00:01:34,000
+I wouldn't typically recommend
+putting your image on the left.
+
+40
+00:01:34,001 --> 00:01:36,000
+But there is a good example of this here.
+
+41
+00:01:36,050 --> 00:01:40,000
+They still do a good job of calling
+attention to the text on the right side.
+
+42
+00:01:40,393 --> 00:01:42,534
+So in this case, I feel
+like it's kind of working.
+
+43
+00:01:42,647 --> 00:01:47,442
+The other thing that you can do
+is again, bring that image to the full
+
+44
+00:01:47,467 --> 00:01:49,549
+height of the viewport.
+
+45
+00:01:49,574 --> 00:01:51,435
+And here's another
+great example of that.
+
+46
+00:01:51,460 --> 00:01:51,740
+All right.
+
+47
+00:01:51,765 --> 00:01:53,280
+So the next one that
+I want to talk about
+
+48
+00:01:53,306 --> 00:01:55,625
+is one that I would
+classify as Old School.
+
+49
+00:01:55,666 --> 00:01:59,000
+And the reason that I classify this as
+Old School is that something that you
+
+50
+00:01:59,001 --> 00:02:00,001
+would see years ago,
+
+51
+00:02:00,426 --> 00:02:02,286
+and it makes
+websites feel outdated.
+
+52
+00:02:02,311 --> 00:02:06,493
+So I wouldn't really recommend this
+one, but this layout is having the image
+
+53
+00:02:06,518 --> 00:02:10,445
+on the background and then
+the text as an overlay over the top.
+
+54
+00:02:10,845 --> 00:02:13,500
+Now again, this can be done tastefully.
+
+55
+00:02:13,525 --> 00:02:17,560
+And so I don't want to say you
+should never use this, but it's really easy
+
+56
+00:02:17,585 --> 00:02:20,476
+to kind of lose track
+of the text in the image.
+
+57
+00:02:20,501 --> 00:02:22,216
+But one example
+that I really liked of this
+
+58
+00:02:22,609 --> 00:02:25,000
+is this website
+Secret Developers.
+
+59
+00:02:25,050 --> 00:02:29,000
+You can see they've gotten a really
+nice image on the backdrop, but they
+
+60
+00:02:29,001 --> 00:02:30,911
+still are using
+some bold text over
+
+61
+00:02:30,936 --> 00:02:34,626
+the front to bring
+your focus to that text.
+
+62
+00:02:34,651 --> 00:02:36,133
+The one thing that
+I don't like is the call
+
+63
+00:02:36,158 --> 00:02:39,000
+to action is really
+difficult to see over
+
+64
+00:02:39,001 --> 00:02:39,640
+the image.
+
+65
+00:02:39,665 --> 00:02:40,069
+All right.
+
+66
+00:02:40,094 --> 00:02:42,642
+So now we're going to
+talk about centered layouts.
+
+67
+00:02:42,667 --> 00:02:45,061
+I am actually a big
+fan of centered layouts
+
+68
+00:02:45,073 --> 00:02:47,322
+back in college when I
+was taking design classes.
+
+69
+00:02:47,347 --> 00:02:50,842
+My teachers would say you
+should never center a line text.
+
+70
+00:02:50,867 --> 00:02:52,001
+It's not tasteful.
+
+71
+00:02:52,050 --> 00:02:53,000
+It doesn't look good.
+
+72
+00:02:53,001 --> 00:02:54,989
+But honestly, I think
+it's kind of easy to
+
+73
+00:02:55,001 --> 00:02:57,000
+consume and it keeps
+things looking really
+
+74
+00:02:57,050 --> 00:03:00,000
+nice and flow really nicely.
+
+75
+00:03:00,001 --> 00:03:04,000
+And so a few examples of this are just
+this classic center layout where you've
+
+76
+00:03:04,001 --> 00:03:06,500
+got your text call to
+action and then your image.
+
+77
+00:03:06,525 --> 00:03:09,045
+And oftentimes that
+image is going to kind
+
+78
+00:03:09,070 --> 00:03:11,618
+of flow out of the
+bottom of the viewport,
+
+79
+00:03:11,643 --> 00:03:17,103
+but as long as enough of that
+image or video is showing, it's going to
+
+80
+00:03:17,128 --> 00:03:19,000
+encourage people
+to scroll to see more.
+
+81
+00:03:19,100 --> 00:03:23,493
+And here's a great example of
+this from this website, Payking.
+
+82
+00:03:23,518 --> 00:03:27,876
+The next one is a slight variation
+of this centered layout where we're
+
+83
+00:03:27,901 --> 00:03:31,000
+taking the image of bringing
+it above the call to action.
+
+84
+00:03:31,001 --> 00:03:32,798
+I personally am not
+a huge fan of this
+
+85
+00:03:32,810 --> 00:03:35,000
+because we want to
+keep that call to action as
+
+86
+00:03:35,050 --> 00:03:38,121
+one of the main focal
+points, but there are
+
+87
+00:03:38,133 --> 00:03:41,000
+cases where this
+can be done tastefully.
+
+88
+00:03:41,001 --> 00:03:45,881
+In this case, Elaster Bank does kind
+of a cool graphic that comes up and
+
+89
+00:03:45,906 --> 00:03:47,335
+over the call to action
+
+90
+00:03:47,573 --> 00:03:51,000
+might be something worth looking
+into and trying in your designs.
+
+91
+00:03:51,001 --> 00:03:55,000
+The next one that I really like is
+the center line text and call to action
+
+92
+00:03:55,050 --> 00:03:58,000
+with a few images
+floating around the size.
+
+93
+00:03:58,001 --> 00:04:02,000
+This is a great example here,
+HomeHero where they're actually using
+
+94
+00:04:02,225 --> 00:04:06,504
+different like profile
+pictures of happy people.
+
+95
+00:04:06,591 --> 00:04:08,471
+This kind of conveys
+their message.
+
+96
+00:04:08,496 --> 00:04:10,454
+I'm a big fan of this.
+
+97
+00:04:10,479 --> 00:04:15,225
+I'm such a big fan of this that I've
+even used in my own website, paitpro.
+
+98
+00:04:15,250 --> 00:04:18,872
+You can see that we've got a
+couple of profile pictures with little like
+
+99
+00:04:18,897 --> 00:04:20,465
+text boxes popping up.
+
+100
+00:04:20,671 --> 00:04:24,920
+That kind of convey more about our
+paitpro community for web designers.
+
+101
+00:04:24,945 --> 00:04:28,718
+I'm a big fan of this and you can
+see that I also used a slight variation
+
+102
+00:04:28,743 --> 00:04:32,758
+where the video, our
+promo video is showing
+
+103
+00:04:32,783 --> 00:04:36,325
+just a little bit on the bottom of the
+viewport which is encourages people to
+
+104
+00:04:36,350 --> 00:04:38,244
+scroll and watch that video.
+
+105
+00:04:38,269 --> 00:04:41,737
+The next ones that I want to talk
+about are horizontal variations and
+
+106
+00:04:41,762 --> 00:04:47,018
+these are horizontally aligned in
+terms of the text and call to action.
+
+107
+00:04:47,050 --> 00:04:50,000
+I think this is a really creative
+way to lay out your hero section.
+
+108
+00:04:50,200 --> 00:04:52,647
+You can see here we've
+got the main header
+
+109
+00:04:52,659 --> 00:04:55,328
+to the left, the sub-header
+and the call to action
+
+110
+00:04:55,353 --> 00:04:58,000
+to the right and then
+the image down below.
+
+111
+00:04:58,400 --> 00:05:01,000
+A good example of this is spline.
+
+112
+00:05:01,001 --> 00:05:02,649
+I actually think they
+do this pretty tastefully.
+
+113
+00:05:02,674 --> 00:05:07,666
+They've got some cool imagery and
+they have a great use of hierarchy so you
+
+114
+00:05:07,691 --> 00:05:09,100
+know exactly
+where to look.
+
+115
+00:05:09,400 --> 00:05:11,000
+You've got the big bold header.
+
+116
+00:05:11,001 --> 00:05:12,001
+You've got the subtext.
+
+117
+00:05:12,100 --> 00:05:14,000
+You've got a colored call to action.
+
+118
+00:05:14,001 --> 00:05:16,414
+They do this really, really well.
+
+119
+00:05:16,439 --> 00:05:19,037
+The next one is a
+slight variation of that
+
+120
+00:05:19,049 --> 00:05:21,000
+where you're actually
+taking the subtext
+
+121
+00:05:21,001 --> 00:05:22,121
+and moving this to the left.
+
+122
+00:05:22,250 --> 00:05:24,613
+I am not a fan of this
+one because again,
+
+123
+00:05:24,625 --> 00:05:27,000
+traditionally we're
+reading left to right
+
+124
+00:05:27,001 --> 00:05:31,000
+and we don't want people to read the
+subtext before they read the main text
+
+125
+00:05:31,200 --> 00:05:32,000
+or value
+
+126
+00:05:32,175 --> 00:05:35,455
+proposition and this
+kind of goes against
+
+127
+00:05:35,467 --> 00:05:39,000
+basic philosophy of
+hierarchy because you've
+
+128
+00:05:39,001 --> 00:05:43,000
+got your main header in the
+middle of its bigger so that should call
+
+129
+00:05:43,001 --> 00:05:46,000
+people's attention
+a little bit more.
+
+130
+00:05:46,001 --> 00:05:48,283
+But when they're
+reading left to right,
+
+131
+00:05:48,295 --> 00:05:51,000
+they're also prone to
+read the sub text first.
+
+132
+00:05:51,001 --> 00:05:54,000
+I just don't think that this is very
+user friendly but it might be something
+
+133
+00:05:54,001 --> 00:05:56,000
+worth trying out.
+
+134
+00:05:56,250 --> 00:06:00,115
+The next one is a
+huge hero image
+
+135
+00:06:00,140 --> 00:06:02,882
+over the top and then
+we've got our header
+
+136
+00:06:02,907 --> 00:06:05,000
+and our sub header down below.
+
+137
+00:06:05,050 --> 00:06:07,888
+This is kind of an
+interesting layout mainly
+
+138
+00:06:07,913 --> 00:06:09,721
+because in the
+examples that I found
+
+139
+00:06:09,746 --> 00:06:12,000
+they don't really
+have a call to action.
+
+140
+00:06:12,001 --> 00:06:13,846
+However there are
+occasionally websites
+
+141
+00:06:13,858 --> 00:06:15,701
+where you don't really
+need a call to action.
+
+142
+00:06:15,726 --> 00:06:17,824
+They're just websites
+that are built to
+
+143
+00:06:17,836 --> 00:06:20,000
+convey information and
+so this might be layout
+
+144
+00:06:20,001 --> 00:06:22,013
+that you want to use
+if you have a website
+
+145
+00:06:22,025 --> 00:06:24,000
+like that that doesn't
+necessarily have a
+
+146
+00:06:24,001 --> 00:06:25,001
+call to action.
+
+147
+00:06:25,250 --> 00:06:26,830
+The next layouts that
+I want to talk about
+
+148
+00:06:26,855 --> 00:06:29,000
+are those that I
+classified as quirky.
+
+149
+00:06:29,001 --> 00:06:32,372
+These are ones that I wouldn't necessarily
+recommend using on an everyday
+
+150
+00:06:32,397 --> 00:06:37,000
+basis, but they might be fun
+variations to try in some of your designs.
+
+151
+00:06:37,050 --> 00:06:40,796
+The first one utilizes somewhat of a
+background image where you've got the
+
+152
+00:06:40,821 --> 00:06:42,000
+text that slightly
+
+153
+00:06:42,001 --> 00:06:43,911
+overlays the image
+and then we've got
+
+154
+00:06:43,923 --> 00:06:46,000
+our sub header down
+to the bottom right.
+
+155
+00:06:46,100 --> 00:06:49,000
+This is kind of a
+cool example of that.
+
+156
+00:06:49,001 --> 00:06:50,417
+Now with this you
+want to make sure that
+
+157
+00:06:50,429 --> 00:06:52,000
+there's a lot of contrast
+between the header
+
+158
+00:06:52,001 --> 00:06:53,964
+and the image and
+so you're going to have
+
+159
+00:06:53,976 --> 00:06:56,000
+to be really careful
+with what you choose.
+
+160
+00:06:56,001 --> 00:06:58,458
+I also sometimes see
+variations where the
+
+161
+00:06:58,470 --> 00:07:01,313
+text overlays it would
+invert to the color white.
+
+162
+00:07:01,338 --> 00:07:06,206
+So again this may not be the easiest
+to read but it is kind of a cool way to
+
+163
+00:07:06,231 --> 00:07:08,095
+shake up your hero section.
+
+164
+00:07:08,461 --> 00:07:11,777
+The next example
+is a slight variation
+
+165
+00:07:11,802 --> 00:07:14,000
+from what we've talked
+about in some of the past
+
+166
+00:07:14,001 --> 00:07:16,161
+examples but you've
+got your header centered
+
+167
+00:07:16,173 --> 00:07:18,000
+up top, you've got
+an image down below
+
+168
+00:07:18,001 --> 00:07:21,442
+and then you've got your sub-header
+and the call to action in the bottom right.
+
+169
+00:07:21,757 --> 00:07:25,016
+I kind of like this example because
+you've got a big fat burger in the
+
+170
+00:07:25,041 --> 00:07:26,463
+bottom left, but you
+
+171
+00:07:26,488 --> 00:07:30,052
+still are utilizing hierarchy and
+people are going to be able to read kind
+
+172
+00:07:30,077 --> 00:07:32,001
+of left, center to right.
+
+173
+00:07:32,250 --> 00:07:35,000
+So this one actually works
+pretty well and I kind of like this.
+
+174
+00:07:35,150 --> 00:07:39,000
+The next example is actually
+one that I'm a big fan of.
+
+175
+00:07:39,001 --> 00:07:40,447
+The only thing you
+have to be careful of
+
+176
+00:07:40,459 --> 00:07:42,026
+is making sure that
+this doesn't become too
+
+177
+00:07:42,050 --> 00:07:44,868
+overwhelming but
+you've got all of your
+
+178
+00:07:44,880 --> 00:07:48,000
+important info to the left,
+your text, call to action,
+
+179
+00:07:48,050 --> 00:07:50,344
+you've got an image in the
+center and then you've got some
+
+180
+00:07:50,369 --> 00:07:54,595
+additional text or even
+buttons to the right
+
+181
+00:07:54,815 --> 00:07:57,368
+and I really like this
+example of trend.
+
+182
+00:07:57,393 --> 00:08:01,000
+You can see that again you're still
+going to be reading left to right, big
+
+183
+00:08:01,001 --> 00:08:03,000
+text down to call to action.
+
+184
+00:08:03,025 --> 00:08:06,000
+You've got a really cool image in
+the center but then on the right you
+
+185
+00:08:06,001 --> 00:08:10,000
+actually have buttons that are
+sliders to change that image.
+
+186
+00:08:10,150 --> 00:08:13,576
+Again you want to be careful to not
+overwhelm people with too much in your
+
+187
+00:08:13,601 --> 00:08:14,448
+hero section
+
+188
+00:08:14,601 --> 00:08:17,796
+but this is a cool variation that I
+would definitely recommend trying out in
+
+189
+00:08:17,821 --> 00:08:18,332
+your designs.
+
+190
+00:08:18,357 --> 00:08:23,000
+The next example is again just a
+slight change up from the ones we just
+
+191
+00:08:23,001 --> 00:08:24,001
+spoke about but
+
+192
+00:08:24,150 --> 00:08:26,626
+we've got our text and
+then our call to action
+
+193
+00:08:26,651 --> 00:08:29,000
+kind of slanting
+to the right starting
+
+194
+00:08:29,001 --> 00:08:32,000
+from the center and then
+we've got images on the left.
+
+195
+00:08:32,050 --> 00:08:35,627
+Again you want to be careful using
+your images on the left just because
+
+196
+00:08:35,652 --> 00:08:36,150
+that's what people
+
+197
+00:08:36,175 --> 00:08:40,000
+are probably going to see first but
+there are ways to do this tastefully.
+
+198
+00:08:40,150 --> 00:08:44,000
+It's showing these books on the
+left which I actually think in this case it
+
+199
+00:08:44,001 --> 00:08:45,918
+really works because
+it's showing some of
+
+200
+00:08:45,930 --> 00:08:48,000
+what they're offering
+and so I actually like
+
+201
+00:08:48,001 --> 00:08:49,000
+this and then
+
+202
+00:08:49,025 --> 00:08:51,471
+their call to action
+the bottom right is a
+
+203
+00:08:51,483 --> 00:08:54,000
+search bar rather than
+a button which again
+
+204
+00:08:54,001 --> 00:08:57,000
+depending on the purpose of
+your website can work really well.
+
+205
+00:08:57,100 --> 00:09:02,000
+The next one that I'm actually a
+huge fan of is this slight centered
+
+206
+00:09:02,001 --> 00:09:03,000
+variation but instead
+
+207
+00:09:03,001 --> 00:09:07,000
+of having everything centered you've
+got your subtext and call to action on
+
+208
+00:09:07,001 --> 00:09:09,424
+a horizontal alignment
+and then you've
+
+209
+00:09:09,436 --> 00:09:12,000
+got images to the
+left and to the right.
+
+210
+00:09:12,001 --> 00:09:15,000
+This website puzzle is a
+really cool example of this.
+
+211
+00:09:15,001 --> 00:09:20,000
+The images are not necessarily descriptive
+but they are on brand and they're
+
+212
+00:09:20,001 --> 00:09:21,001
+really bright
+
+213
+00:09:21,150 --> 00:09:23,534
+and colorful and fun
+and then I also like
+
+214
+00:09:23,546 --> 00:09:26,000
+that they're calling
+more attention to the
+
+215
+00:09:26,200 --> 00:09:29,000
+call to action with the little arrow.
+
+216
+00:09:29,001 --> 00:09:32,000
+So this is a really cool variation
+that I'm definitely going to be using.
+
+217
+00:09:32,001 --> 00:09:34,915
+The next one is a
+variation that I'm not
+
+218
+00:09:34,927 --> 00:09:38,000
+super thrilled about
+but they are somewhat
+
+219
+00:09:38,001 --> 00:09:40,326
+sticking to the
+whole idea of header
+
+220
+00:09:40,338 --> 00:09:42,293
+to the left and then
+moving to the right.
+
+221
+00:09:42,526 --> 00:09:44,099
+The only problem
+is the header is in the
+
+222
+00:09:44,124 --> 00:09:46,506
+bottom left and then
+they've got big images
+
+223
+00:09:46,531 --> 00:09:49,569
+right here in the center
+kind of slanting down.
+
+224
+00:09:49,695 --> 00:09:52,075
+You can see in this
+example here the reason
+
+225
+00:09:52,100 --> 00:09:55,000
+that this one is working
+is because those
+
+226
+00:09:55,001 --> 00:10:00,000
+images are portraying what it
+is that they offer or what they do.
+
+227
+00:10:00,225 --> 00:10:04,000
+It's the UI of their app but again
+this can get a little confusing when
+
+228
+00:10:04,100 --> 00:10:05,000
+people are looking
+
+229
+00:10:05,001 --> 00:10:07,176
+they're going to start at the top
+left and then go to the bottom left to
+
+230
+00:10:07,200 --> 00:10:08,000
+read the header
+
+231
+00:10:08,001 --> 00:10:10,000
+and then they're going to go to the
+center to see the images and then top
+
+232
+00:10:10,001 --> 00:10:11,000
+right to read the
+
+233
+00:10:11,001 --> 00:10:11,964
+subtext and then
+they're going to wander
+
+234
+00:10:11,976 --> 00:10:13,208
+with a call to action
+and they're gonna
+
+235
+00:10:13,233 --> 00:10:17,559
+go to the bottom-right and so it can
+get kind of overwhelming but it might
+
+236
+00:10:17,584 --> 00:10:18,964
+be something worth trying out.
+
+237
+00:10:19,744 --> 00:10:22,012
+The next variation
+this is something that
+
+238
+00:10:22,024 --> 00:10:24,000
+I have really loved
+and I'm seeing this more
+
+239
+00:10:24,001 --> 00:10:30,578
+often and this is using a standard
+layout but instead of having imagery in a
+
+240
+00:10:30,603 --> 00:10:36,244
+traditional location like left, right,
+center they've got it within the header
+
+241
+00:10:36,269 --> 00:10:37,384
+and this is a really
+
+242
+00:10:37,409 --> 00:10:44,713
+fun way to express more in the
+main h1 of your website and like
+
+243
+00:10:44,738 --> 00:10:47,143
+they say, "A picture is
+worth a thousand words"
+
+244
+00:10:47,168 --> 00:10:52,000
+and so if you're trying to
+say more in the main text of
+
+245
+00:10:52,001 --> 00:10:53,001
+your hero section
+
+246
+00:10:53,300 --> 00:10:55,555
+this might be the
+variation for you and I
+
+247
+00:10:55,567 --> 00:10:58,000
+really like this example
+you can see they've
+
+248
+00:10:58,001 --> 00:11:01,300
+got different images between
+creative agency for the ocean.
+
+249
+00:11:01,546 --> 00:11:03,291
+I'm obsessed with this layout.
+
+250
+00:11:03,358 --> 00:11:06,600
+It is a little bit more
+quirky, a little bit
+
+251
+00:11:06,612 --> 00:11:09,504
+more out there but
+if you do it in a very
+
+252
+00:11:09,529 --> 00:11:12,383
+conservative way, I think
+it can work really well.
+
+253
+00:11:12,476 --> 00:11:15,000
+Now if you like this video hit the like
+button and subscribe to my channel
+
+254
+00:11:15,001 --> 00:11:17,518
+if you haven't already
+because I've got new
+
+255
+00:11:17,530 --> 00:11:19,453
+videos just like this
+one coming out every
+
+256
+00:11:19,478 --> 00:11:20,632
+single week.
+
+257
+00:11:20,657 --> 00:11:24,548
+Plus if you're interested in applying
+for our private community for web
+
+258
+00:11:24,573 --> 00:11:28,131
+designers where we have monthly
+trainings, we share resources
+
+259
+00:11:28,143 --> 00:11:30,000
+and we have monthly
+design competitions
+
+260
+00:11:30,001 --> 00:11:34,000
+with huge cash prizes be sure to click
+the link down below or you can go to
+
+261
+00:11:34,150 --> 00:11:36,000
+paitpro.com to apply.
+
+262
+00:11:36,075 --> 00:11:39,000
+I hope to see you inside and
+we'll catch you in the next video.
+
+263
+00:11:39,200 --> 00:11:45,000
+[Music].
+
