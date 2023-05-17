@@ -1,0 +1,570 @@
+﻿1
+00:00:00,150 --> 00:00:03,660
+Hi everyone, this is Andy with
+Blungo.com and in this video I'm going to
+
+2
+00:00:03,685 --> 00:00:05,441
+show you how to automatically
+
+3
+00:00:05,466 --> 00:00:11,000
+create a related record using a
+function in Zoho CRM. For this example,
+
+4
+00:00:11,001 --> 00:00:13,000
+when a deal is moved to
+
+5
+00:00:13,001 --> 00:00:17,000
+closed won, it will create a related
+record in the jobs module. In the
+
+6
+00:00:17,001 --> 00:00:19,000
+description, you can find a
+
+7
+00:00:19,075 --> 00:00:22,724
+blog post with the written step-by-step
+tutorial, as well as the code that
+
+8
+00:00:22,749 --> 00:00:24,000
+we're going to use today.
+
+9
+00:00:24,225 --> 00:00:28,211
+Alright, let's get started. There are
+two ways to create a related records.
+
+10
+00:00:28,425 --> 00:00:29,691
+The first one is to use
+
+11
+00:00:29,716 --> 00:00:33,738
+the workflow action, create a
+related records, but it is limited on what
+
+12
+00:00:33,763 --> 00:00:35,000
+information you can pass to
+
+13
+00:00:35,001 --> 00:00:38,505
+the related record. Then the ways to
+use a function, and that's how we're
+
+14
+00:00:38,530 --> 00:00:40,000
+going to do it in this tutorial.
+
+15
+00:00:40,100 --> 00:00:44,000
+This is the deal we're going to use.
+And if we scroll down, we can see that
+
+16
+00:00:44,001 --> 00:00:45,000
+we have these three
+
+17
+00:00:45,001 --> 00:00:48,627
+fields that we would like to pass to
+the related record. It is a drop-down
+
+18
+00:00:48,652 --> 00:00:50,100
+field, a date field,
+
+19
+00:00:50,350 --> 00:00:54,175
+and a user field. So besides creating
+the record, we're going to copy some
+
+20
+00:00:54,200 --> 00:00:55,200
+information as well.
+
+21
+00:00:55,350 --> 00:00:59,000
+The first thing we have to do is
+go to the CRM setup, and then open
+
+22
+00:00:59,001 --> 00:01:00,000
+the module where the
+
+23
+00:01:00,001 --> 00:01:04,000
+related record is going to be created.
+In my case, I want to create a job
+
+24
+00:01:04,175 --> 00:01:05,316
+after a deal is won,
+
+25
+00:01:05,510 --> 00:01:07,579
+so I'm going to open
+the jobs module, which
+
+26
+00:01:07,591 --> 00:01:10,000
+is a custom module.
+And open the layout.
+
+27
+00:01:11,703 --> 00:01:15,316
+Here, I already have the fields that
+need to be mapped from the deal,
+
+28
+00:01:15,402 --> 00:01:17,000
+but I'm going to add one more
+
+29
+00:01:17,001 --> 00:01:18,836
+field that will link
+these two modules.
+
+30
+00:01:18,861 --> 00:01:21,456
+It is a lookup field. So
+let's drag and drop it.
+
+31
+00:01:23,226 --> 00:01:26,305
+And in this new window,
+let's name it, deal related.
+
+32
+00:01:26,899 --> 00:01:29,001
+The module lookup
+is going to be deals.
+
+33
+00:01:30,050 --> 00:01:33,745
+And the related list
+is going to be jobs.
+
+34
+00:01:34,169 --> 00:01:35,089
+Click on Done.
+
+35
+00:01:36,089 --> 00:01:38,238
+Okay, we have all
+the fields we need,
+
+36
+00:01:38,263 --> 00:01:39,304
+so let's save this
+layout.
+
+37
+00:01:41,559 --> 00:01:43,093
+Now we have to
+create a function.
+
+38
+00:01:43,763 --> 00:01:45,131
+In this tab, I already have the
+
+39
+00:01:45,156 --> 00:01:46,416
+functions page open.
+
+40
+00:01:47,009 --> 00:01:48,984
+We are going to
+create a new function.
+
+41
+00:01:49,663 --> 00:01:51,350
+Let's add a name
+and a display name.
+
+42
+00:01:54,196 --> 00:01:56,036
+The category is going
+to be automation.
+
+43
+00:01:57,419 --> 00:01:58,421
+Click on create.
+
+44
+00:02:00,786 --> 00:02:02,383
+The code is in the blog post.
+
+45
+00:02:02,576 --> 00:02:03,854
+I have it open right here.
+
+46
+00:02:04,888 --> 00:02:06,536
+Scroll down until
+you find the code.
+
+47
+00:02:09,130 --> 00:02:10,097
+Select it.
+
+48
+00:02:12,700 --> 00:02:13,720
+And copy it.
+
+49
+00:02:14,313 --> 00:02:15,647
+Back to the function.
+
+50
+00:02:17,486 --> 00:02:18,833
+And paste it right here.
+
+51
+00:02:19,793 --> 00:02:21,546
+Next, we have to
+add an argument.
+
+52
+00:02:21,739 --> 00:02:28,543
+So click on edit argument
+and add deal_id as a string.
+
+53
+00:02:30,110 --> 00:02:32,575
+This is the information
+that will be passed to the
+
+54
+00:02:32,600 --> 00:02:35,183
+function from the workflow
+that we're going to create later.
+
+55
+00:02:35,470 --> 00:02:36,363
+Click on save.
+
+56
+00:02:36,923 --> 00:02:39,206
+And now I'm going to
+explain what the function does.
+
+57
+00:02:39,326 --> 00:02:41,693
+But before I do that, I
+wanted to mention that
+
+58
+00:02:41,718 --> 00:02:44,238
+we have created a Zoho
+one course for admins.
+
+59
+00:02:44,263 --> 00:02:47,060
+So if you're interested, check
+out the link in the description.
+
+60
+00:02:47,206 --> 00:02:51,445
+So the function first gets the deal
+information based on the Deal ID.
+
+61
+00:02:51,599 --> 00:02:54,485
+Then it grabs the
+information located in the
+
+62
+00:02:54,510 --> 00:02:57,300
+different deal fields that
+we want to copy to the job.
+
+63
+00:02:57,533 --> 00:03:00,470
+In this case, estimator,
+type and closing date.
+
+64
+00:03:00,530 --> 00:03:05,000
+The estimator is a user field.
+That's why we need to get the ID.
+
+65
+00:03:05,001 --> 00:03:10,000
+Then it is creating the job record name,
+which is the word job and the deal name.
+
+66
+00:03:10,001 --> 00:03:13,813
+Then it maps all the fields
+from the deal to the job record.
+
+67
+00:03:14,280 --> 00:03:15,703
+Finally, it creates the record.
+
+68
+00:03:15,950 --> 00:03:18,244
+You have to make sure
+that you're using the right
+
+69
+00:03:18,269 --> 00:03:21,000
+API names in the function.
+The two most important
+
+70
+00:03:21,001 --> 00:03:23,000
+fields are deal_related,
+
+71
+00:03:23,350 --> 00:03:27,000
+which is the lookup field we added
+before and jobs, which is the module API
+
+72
+00:03:27,001 --> 00:03:29,000
+name. To find them,
+
+73
+00:03:29,001 --> 00:03:34,000
+go to the API names in the CRM settings.
+These are all the module API names.
+
+74
+00:03:34,550 --> 00:03:35,796
+If we scroll down,
+
+75
+00:03:35,821 --> 00:03:39,206
+we can see the jobs module
+and on the right, the API name
+
+76
+00:03:39,373 --> 00:03:42,000
+to find API names
+just open the module.
+
+77
+00:03:43,870 --> 00:03:45,983
+Here is the
+deal_related API name.
+
+78
+00:03:46,043 --> 00:03:48,550
+You can switch to all
+their modules with this filter.
+
+79
+00:03:50,503 --> 00:03:51,730
+Okay, back to the function.
+
+80
+00:03:52,777 --> 00:03:54,930
+At this point, you can
+click on save and execute
+
+81
+00:03:55,001 --> 00:03:56,433
+if you want to
+test this function.
+
+82
+00:03:56,653 --> 00:03:59,140
+In my case, I know it works.
+So I'm just going to save it.
+
+83
+00:04:01,173 --> 00:04:04,000
+All right, the function is ready.
+So now we need to create a workflow.
+
+84
+00:04:04,393 --> 00:04:08,489
+I have the workflow section open
+on this tab. Let's create a new rule.
+
+85
+00:04:09,961 --> 00:04:11,503
+The module is deals.
+
+86
+00:04:12,890 --> 00:04:13,763
+Add a name.
+
+87
+00:04:15,623 --> 00:04:16,877
+And click on next.
+
+88
+00:04:19,210 --> 00:04:20,956
+Here, select record action.
+
+89
+00:04:23,050 --> 00:04:23,803
+Edit.
+
+90
+00:04:25,770 --> 00:04:27,650
+Specific field gets modified.
+
+91
+00:04:28,390 --> 00:04:30,170
+When the stage is modified to.
+
+92
+00:04:32,423 --> 00:04:33,576
+The value.
+
+93
+00:04:34,970 --> 00:04:35,743
+Closed Won.
+
+94
+00:04:36,510 --> 00:04:37,177
+Next
+
+95
+00:04:39,110 --> 00:04:41,237
+this rule is going
+to apply to all deals.
+
+96
+00:04:42,089 --> 00:04:42,729
+Next
+
+97
+00:04:44,277 --> 00:04:46,057
+and the action is
+going to be function.
+
+98
+00:04:47,383 --> 00:04:49,203
+In this box, click on functions.
+
+99
+00:04:50,503 --> 00:04:53,363
+And click on configure next
+to the function we just created.
+
+100
+00:04:54,823 --> 00:04:58,976
+This is the parameter we're passing
+to the function. So press the pound key,
+
+101
+00:04:59,586 --> 00:05:06,000
+module is deals. And field is Deal
+ID. And click on save and associate.
+
+102
+00:05:07,000 --> 00:05:09,000
+The workflow is ready. So let's save it.
+
+103
+00:05:10,789 --> 00:05:13,310
+All right, we can now test
+if this automation works.
+
+104
+00:05:13,543 --> 00:05:15,000
+Let's go back to the deal
+
+105
+00:05:15,456 --> 00:05:16,716
+and refresh the page.
+
+106
+00:05:20,549 --> 00:05:23,763
+On the related list, we
+can now see the jobs tab.
+
+107
+00:05:24,116 --> 00:05:26,968
+Okay, let's move the deal
+to the closed won stage,
+
+108
+00:05:27,000 --> 00:05:28,406
+which will trigger the workflow.
+
+109
+00:05:29,513 --> 00:05:31,400
+And refresh the
+page one more time.
+
+110
+00:05:34,413 --> 00:05:36,521
+And now we can see that
+there's a record right there.
+
+111
+00:05:36,753 --> 00:05:38,113
+So let's click on the list.
+
+112
+00:05:39,743 --> 00:05:41,583
+The job record has been
+created.
+
+113
+00:05:41,627 --> 00:05:44,049
+And the name is job
+plus the deal name.
+
+114
+00:05:44,350 --> 00:05:45,150
+Let 's open it.
+
+115
+00:05:47,423 --> 00:05:50,000
+And the three fields have
+been mapped correctly.
+
+116
+00:05:51,300 --> 00:05:53,126
+All right, I hope you
+guys enjoyed the video.
+
+117
+00:05:53,151 --> 00:05:55,025
+And if you did, please
+click the like button.
+
+118
+00:05:55,350 --> 00:05:57,584
+If you're a Zoho admin
+and would like to learn
+
+119
+00:05:57,609 --> 00:06:00,189
+more about how to integrate
+the different Zoho apps,
+
+120
+00:06:00,462 --> 00:06:05,000
+we made a Zoho one course where
+we go over how to configure and
+
+121
+00:06:05,001 --> 00:06:06,000
+integrate the top 10
+
+122
+00:06:06,001 --> 00:06:10,000
+most used Zoho one apps. Check
+out the link in the description for more
+
+123
+00:06:10,150 --> 00:06:11,000
+information.
+
+124
+00:06:11,001 --> 00:06:15,000
+Thanks for watching.
+
