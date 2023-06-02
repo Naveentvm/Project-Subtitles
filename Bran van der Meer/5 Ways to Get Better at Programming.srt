@@ -1,0 +1,1560 @@
+﻿1
+00:00:00,000 --> 00:00:03,000
+Programming is only one part
+of our job as software engineers.
+
+2
+00:00:03,050 --> 00:00:06,000
+In addition to programming the
+feature that we're being asked to build,
+
+3
+00:00:06,001 --> 00:00:10,000
+we are responsible for creating
+systems that will last, that will stand the
+
+4
+00:00:10,001 --> 00:00:11,000
+test of time.
+
+5
+00:00:11,001 --> 00:00:14,000
+And there's many effective ways
+of doing that as software engineers.
+
+6
+00:00:14,025 --> 00:00:18,000
+There's code reviews, there's challenging
+your designer, your product owner,
+
+7
+00:00:18,050 --> 00:00:21,000
+there's testing, there's
+working with automated tests,
+
+8
+00:00:21,001 --> 00:00:24,000
+there's continuous integration,
+continuous delivery, there's DevOps,
+
+9
+00:00:24,001 --> 00:00:27,000
+there's effective communication,
+there's time management.
+
+10
+00:00:27,100 --> 00:00:29,846
+There's so many
+things that are also
+
+11
+00:00:29,858 --> 00:00:32,211
+part of our job that
+are not programming.
+
+12
+00:00:32,531 --> 00:00:36,000
+But having said all that, programming
+is a part of our job and it is an
+
+13
+00:00:36,001 --> 00:00:37,680
+important part of our job.
+
+14
+00:00:37,860 --> 00:00:39,467
+How do we get better
+at programming?
+
+15
+00:00:39,492 --> 00:00:44,000
+How do we hone the skill that
+is typing code to solve problems?
+
+16
+00:00:44,200 --> 00:00:45,668
+This video looks at that.
+
+17
+00:00:45,693 --> 00:00:47,000
+Let's get into it.
+
+18
+00:00:47,001 --> 00:00:50,000
+Step one, learn your
+programming language really well.
+
+19
+00:00:50,325 --> 00:00:53,000
+I advise you to take a structured
+way at learning the language.
+
+20
+00:00:53,350 --> 00:00:58,000
+Make sure you make a plan, you set
+your goals and you work through that plan
+
+21
+00:00:58,001 --> 00:00:59,000
+step by step.
+
+22
+00:00:59,001 --> 00:01:03,000
+Even if you've been working with a
+programming language for quite a while,
+
+23
+00:01:03,001 --> 00:01:04,552
+even for years,
+
+24
+00:01:04,585 --> 00:01:06,600
+it makes sense to get
+back to that knowledge
+
+25
+00:01:06,625 --> 00:01:09,376
+to make sure you know
+your tool really well.
+
+26
+00:01:09,400 --> 00:01:12,553
+You won't accidentally
+reach for external tools,
+
+27
+00:01:13,100 --> 00:01:16,000
+whereas you already had the
+tool in your language all along.
+
+28
+00:01:16,200 --> 00:01:18,000
+Start with syntax essentials.
+
+29
+00:01:18,001 --> 00:01:23,000
+Go through the reference guide and
+learn about all the standard objects,
+
+30
+00:01:23,300 --> 00:01:27,000
+the expressions, the operators, what
+is an expression versus a statement.
+
+31
+00:01:27,025 --> 00:01:31,496
+Go through variables, conditionals,
+functions, modules, and then
+
+32
+00:01:31,521 --> 00:01:33,001
+data structures, data types.
+
+33
+00:01:33,325 --> 00:01:35,000
+How do they relate?
+
+34
+00:01:35,001 --> 00:01:36,000
+Again, it's your toolbox.
+
+35
+00:01:36,001 --> 00:01:39,000
+You have to be aware what's in your
+toolbox, so you won't accidentally reach
+
+36
+00:01:39,001 --> 00:01:43,613
+for external things when you've
+had this tool in your toolbox all along.
+
+37
+00:01:43,740 --> 00:01:49,000
+I would advise everybody to scroll
+through the entire reference manual for
+
+38
+00:01:49,001 --> 00:01:50,001
+your language
+
+39
+00:01:50,350 --> 00:01:52,502
+to just know about everything.
+
+40
+00:01:52,527 --> 00:01:56,000
+You don't have to know all
+the little details of everything.
+
+41
+00:01:56,001 --> 00:01:59,621
+You have to be aware of what
+features your language offers,
+
+42
+00:01:59,667 --> 00:02:03,010
+because the moment you're aware
+you run into a problem in the future,
+
+43
+00:02:03,150 --> 00:02:05,476
+you know exactly what to search for.
+
+44
+00:02:05,501 --> 00:02:08,543
+And, that is a really important
+skill as a programmer,
+
+45
+00:02:08,568 --> 00:02:13,187
+to be aware what is there and
+to be able to search for that thing,
+
+46
+00:02:13,212 --> 00:02:16,000
+because you won't remember
+all these tiny syntax details.
+
+47
+00:02:16,575 --> 00:02:20,000
+That there's no use in
+investing so much time in that.
+
+48
+00:02:20,050 --> 00:02:24,000
+There's use in knowing what is
+available, you know what to search for,
+
+49
+00:02:24,001 --> 00:02:27,000
+and then you can quickly solve
+your problem in the right way.
+
+50
+00:02:27,400 --> 00:02:30,000
+The point is not to use everything
+that's available in your language.
+
+51
+00:02:30,001 --> 00:02:33,000
+The point is to be
+aware of what's available.
+
+52
+00:02:33,001 --> 00:02:36,000
+In fact, I would go further and say,
+
+53
+00:02:36,001 --> 00:02:39,000
+"I would stay away from the
+obscure features of your language."
+
+54
+00:02:39,001 --> 00:02:40,803
+Every language has
+some things that if you
+
+55
+00:02:40,828 --> 00:02:43,541
+look at the broader
+programming community,
+
+56
+00:02:43,566 --> 00:02:47,000
+people are using less or not at all.
+
+57
+00:02:47,100 --> 00:02:50,000
+You know, language is
+a design exercise as well.
+
+58
+00:02:50,001 --> 00:02:54,607
+Language designers didn't
+make a perfect language either.
+
+59
+00:02:54,632 --> 00:02:57,487
+They have some parts that they're
+happy with and some parts that they're
+
+60
+00:02:57,512 --> 00:02:58,276
+less happy with,
+
+61
+00:02:58,301 --> 00:03:02,112
+and the community generally evolves
+thought around this kind of thing.
+
+62
+00:03:02,137 --> 00:03:04,577
+So it's good to be
+aware of that and to say,
+
+63
+00:03:04,602 --> 00:03:08,596
+"Okay, this is a less used feature
+of the language in our industry.
+
+64
+00:03:08,621 --> 00:03:10,000
+I'm going to steer clear from it.
+
+65
+00:03:10,001 --> 00:03:14,740
+I'm going to sort of deny list it in
+my head and try and not use it."
+
+66
+00:03:14,787 --> 00:03:16,839
+Knowing what's
+available prevents you
+
+67
+00:03:16,851 --> 00:03:19,000
+from needing Stack
+Overflow for everything.
+
+68
+00:03:19,001 --> 00:03:21,595
+It prevents you from random
+searches that don't make sense,
+
+69
+00:03:21,620 --> 00:03:23,819
+and it prevents you from
+adding dependencies
+
+70
+00:03:23,844 --> 00:03:26,000
+that you wouldn't
+otherwise need.
+
+71
+00:03:26,050 --> 00:03:31,000
+It makes you write code the way the
+average person in the industry with that
+
+72
+00:03:31,001 --> 00:03:32,001
+same language would,
+
+73
+00:03:32,375 --> 00:03:35,000
+which is a good thing in the long term.
+
+74
+00:03:35,250 --> 00:03:38,000
+When you haven't picked any
+obscure features of your language,
+
+75
+00:03:38,001 --> 00:03:40,000
+it means maintainability is higher.
+
+76
+00:03:40,001 --> 00:03:41,000
+It means code quality is higher.
+
+77
+00:03:41,001 --> 00:03:42,000
+It means onboarding goes faster.
+
+78
+00:03:42,001 --> 00:03:45,000
+It means a lot of positive things.
+
+79
+00:03:45,150 --> 00:03:49,000
+Step two, learn the frameworks
+and the libraries that you're using.
+
+80
+00:03:49,350 --> 00:03:53,669
+I've seen many people who Stack
+Overflow their way through their career,
+
+81
+00:03:53,694 --> 00:03:58,000
+and nowadays it's Copilot and
+ChatGPT, but it's very similar.
+
+82
+00:03:58,001 --> 00:04:00,739
+It's an external tool that
+helps you solve a problem.
+
+83
+00:04:00,764 --> 00:04:04,000
+Whereas if you would simply have
+the knowledge of your language,
+
+84
+00:04:04,001 --> 00:04:06,000
+your framework, and your library,
+
+85
+00:04:06,001 --> 00:04:10,000
+then you wouldn't need some
+other tool or some search engine
+
+86
+00:04:10,001 --> 00:04:13,000
+to come up with the solution for you.
+
+87
+00:04:13,025 --> 00:04:15,174
+You would know exactly
+how it should be solved,
+
+88
+00:04:15,199 --> 00:04:17,520
+and then you can
+instruct an AI, or then
+
+89
+00:04:17,532 --> 00:04:19,608
+you can look up
+official documentation.
+
+90
+00:04:19,633 --> 00:04:22,000
+There's nothing wrong
+with searching itself,
+
+91
+00:04:22,375 --> 00:04:26,150
+but it's often a sign of not
+knowing how to solve your problem.
+
+92
+00:04:26,175 --> 00:04:29,000
+And that really needs to be solved first.
+
+93
+00:04:29,001 --> 00:04:33,000
+You really need to think
+through, "Will I solve this problem?
+
+94
+00:04:33,001 --> 00:04:35,000
+How do I even get started on this problem?
+
+95
+00:04:35,001 --> 00:04:37,000
+What is this problem composed of?".
+
+96
+00:04:37,300 --> 00:04:41,000
+Otherwise, these searches will
+not help you in the right direction.
+
+97
+00:04:41,001 --> 00:04:44,000
+They will give you random
+results, unpredictable results,
+
+98
+00:04:44,225 --> 00:04:47,506
+simply outdated or wrong
+results, is all possible.
+
+99
+00:04:47,531 --> 00:04:49,000
+Let's look at one.
+
+100
+00:04:49,001 --> 00:04:52,489
+I'm using Luxon,
+the date library, and I
+
+101
+00:04:52,501 --> 00:04:56,000
+needed to figure out
+how to add a month.
+
+102
+00:04:56,075 --> 00:05:02,000
+This is my search engine, Kagi,
+and it gave me no useful results.
+
+103
+00:05:02,001 --> 00:05:05,000
+I tried a few other ones,
+Google, for example.
+
+104
+00:05:05,001 --> 00:05:07,000
+It also didn't give me useful results.
+
+105
+00:05:07,150 --> 00:05:10,000
+They both give me this bug that's there.
+
+106
+00:05:10,001 --> 00:05:13,000
+Okay, I'm not interested in that.
+
+107
+00:05:13,150 --> 00:05:15,563
+It gives me documentation,
+and when I open
+
+108
+00:05:15,575 --> 00:05:18,000
+it, it seems to be
+outdated documentation,
+
+109
+00:05:18,001 --> 00:05:22,000
+and also it's not telling me everything.
+
+110
+00:05:22,001 --> 00:05:25,000
+It's not answering my specific question.
+
+111
+00:05:25,150 --> 00:05:31,000
+Whereas if I would simply go to
+the official documentation of Luxon,
+
+112
+00:05:31,050 --> 00:05:34,265
+and I would have
+read this once, then I
+
+113
+00:05:34,277 --> 00:05:38,000
+would know there is a
+math feature available,
+
+114
+00:05:38,001 --> 00:05:43,000
+and I would simply be able
+to add via the plus method.
+
+115
+00:05:43,001 --> 00:05:46,000
+This is an example of
+the official documentation
+
+116
+00:05:46,001 --> 00:05:50,000
+having a really nice structured
+way of explaining things, and
+
+117
+00:05:50,375 --> 00:05:53,000
+also explaining which units
+can we use to use math,
+
+118
+00:05:53,001 --> 00:05:55,000
+and what do we need to pay attention to?
+
+119
+00:05:55,001 --> 00:05:57,000
+If I get this StackOverflow answer,
+
+120
+00:05:57,001 --> 00:06:01,000
+then yes, they might also have
+written this essay for an answer,
+
+121
+00:06:01,001 --> 00:06:05,000
+but will it tell you that months vary
+because there are different lengths
+
+122
+00:06:05,001 --> 00:06:08,000
+and quarters and all these kind of details?
+
+123
+00:06:08,001 --> 00:06:11,000
+And if you would have read
+this documentation just once,
+
+124
+00:06:11,001 --> 00:06:15,000
+you would have remembered that doing
+math on datetime objects is an option,
+
+125
+00:06:15,001 --> 00:06:19,000
+and maybe you won't remember
+the exact syntax, but that's fine.
+
+126
+00:06:19,001 --> 00:06:21,000
+You can now search for that.
+
+127
+00:06:21,100 --> 00:06:25,000
+You can use a very specific
+term to open up the documentation,
+
+128
+00:06:25,001 --> 00:06:27,000
+scroll through the math
+thing, and then you know,
+
+129
+00:06:27,001 --> 00:06:30,000
+or you could search
+for Luxon datetime math,
+
+130
+00:06:30,200 --> 00:06:32,288
+and it would immediately
+pop up the right page
+
+131
+00:06:32,313 --> 00:06:34,000
+because you know what you're looking for.
+
+132
+00:06:34,001 --> 00:06:35,001
+And in the case of React,
+
+133
+00:06:35,275 --> 00:06:39,000
+make sure you read the documentation,
+the reference on all the hooks.
+
+134
+00:06:39,025 --> 00:06:40,000
+Yes, all of them.
+
+135
+00:06:40,001 --> 00:06:42,649
+Even if you won't need
+half of them, that's okay.
+
+136
+00:06:42,674 --> 00:06:45,856
+You can't predict whether you might
+need them a few months from now.
+
+137
+00:06:45,881 --> 00:06:48,291
+So it's important
+to again be aware
+
+138
+00:06:48,303 --> 00:06:51,000
+of what's there,
+what's available to you.
+
+139
+00:06:51,001 --> 00:06:53,000
+So you know exactly what to search for.
+
+140
+00:06:53,001 --> 00:06:54,598
+So search will be helpful.
+
+141
+00:06:54,623 --> 00:06:56,415
+Otherwise, search will be unhelpful.
+
+142
+00:06:56,440 --> 00:06:59,000
+You'll get random StackOverflow answers.
+
+143
+00:06:59,001 --> 00:07:02,000
+You'll have difficulty coming
+up with which exact keywords
+
+144
+00:07:02,001 --> 00:07:03,000
+are you going to search for.
+
+145
+00:07:03,001 --> 00:07:06,000
+How are you going to
+explain the problem to an AI
+
+146
+00:07:06,001 --> 00:07:08,522
+if you don't understand the problem first?
+
+147
+00:07:08,547 --> 00:07:10,811
+Reading official documentation,
+
+148
+00:07:10,836 --> 00:07:13,257
+like from your language
+or framework or your
+
+149
+00:07:13,282 --> 00:07:16,000
+library, is an underrated
+skill nowadays.
+
+150
+00:07:16,001 --> 00:07:19,000
+I think it's a very important thing
+to be aware of what tools you have.
+
+151
+00:07:19,001 --> 00:07:21,000
+Yes, StackOverflow has its use.
+
+152
+00:07:21,001 --> 00:07:25,000
+AIs have their uses, but
+it's not structuring your code.
+
+153
+00:07:25,001 --> 00:07:26,617
+It's not seeing the bigger picture.
+
+154
+00:07:26,642 --> 00:07:29,000
+That's not within the
+capability of these things.
+
+155
+00:07:29,001 --> 00:07:30,000
+You have to do that.
+
+156
+00:07:30,001 --> 00:07:32,000
+You are responsible
+for that as a programmer.
+
+157
+00:07:32,001 --> 00:07:34,426
+My next tip is to
+learn how to approach
+
+158
+00:07:34,438 --> 00:07:36,532
+programming problems
+in a structured way.
+
+159
+00:07:36,557 --> 00:07:40,000
+I've talked about this before in my
+video on problem solving for coders.
+
+160
+00:07:40,100 --> 00:07:44,000
+It boils down to analyzing
+the problem, making a plan,
+
+161
+00:07:44,001 --> 00:07:47,000
+and all of that before you start typing.
+
+162
+00:07:47,001 --> 00:07:49,000
+Watch that video if you want to learn more.
+
+163
+00:07:49,125 --> 00:07:52,256
+It also involves learning the common
+design pattern that are out there.
+
+164
+00:07:52,281 --> 00:07:56,549
+And you could achieve this by reading
+books, like the Gang of Four book,
+
+165
+00:07:56,574 --> 00:08:02,000
+but I personally don't enjoy reading
+the Java language as it was in 1994.
+
+166
+00:08:02,001 --> 00:08:06,000
+That's quite far from
+people's realities nowadays.
+
+167
+00:08:06,001 --> 00:08:11,539
+And there's alternative, modern
+approaches like patterns.dev website.
+
+168
+00:08:11,566 --> 00:08:14,310
+They have, if you're
+in a JavaScript,
+
+169
+00:08:14,322 --> 00:08:17,000
+a React context, of
+course there's alternatives
+
+170
+00:08:17,001 --> 00:08:18,000
+if you're in a different language,
+
+171
+00:08:18,001 --> 00:08:23,000
+but this is a free e-book
+and it has modern patterns.
+
+172
+00:08:23,350 --> 00:08:25,000
+explained in a really nice way.
+
+173
+00:08:25,475 --> 00:08:29,000
+There's, if you want to, some
+of it has overlap with the book,
+
+174
+00:08:29,375 --> 00:08:34,000
+but half of it isn't in the book
+and half of it is front end specific.
+
+175
+00:08:34,200 --> 00:08:36,000
+And that is really where
+this kind of thing shines.
+
+176
+00:08:36,001 --> 00:08:39,000
+This is a website so
+it's being kept up to date.
+
+177
+00:08:39,001 --> 00:08:43,000
+You can also download it as a
+PDF or e-book or whatever you need.
+
+178
+00:08:43,225 --> 00:08:47,000
+The important thing is
+it will not get out of date
+
+179
+00:08:47,225 --> 00:08:50,000
+because there's people
+committed to this kind of thing.
+
+180
+00:08:50,001 --> 00:08:53,000
+Another way is to approach
+problems together with people,
+
+181
+00:08:53,001 --> 00:08:57,000
+to find opportunities to
+problem solve together.
+
+182
+00:08:57,001 --> 00:08:59,000
+Maybe you can pair program the first hour
+
+183
+00:08:59,001 --> 00:09:02,000
+of a new user story that
+one of your team members
+
+184
+00:09:02,001 --> 00:09:04,000
+is picking up because the
+moment you start getting into
+
+185
+00:09:04,001 --> 00:09:07,000
+somebody else's thinking,
+somebody else's approach
+
+186
+00:09:07,001 --> 00:09:10,000
+to problems, you learn a lot of new things.
+
+187
+00:09:10,001 --> 00:09:12,179
+You're effectively
+getting a sort of mentoring
+
+188
+00:09:12,191 --> 00:09:14,000
+and the knowledge
+sharing in your team
+
+189
+00:09:14,001 --> 00:09:16,000
+starts to flow more readily.
+
+190
+00:09:16,400 --> 00:09:18,688
+I've just talked about
+doing some analysis
+
+191
+00:09:18,700 --> 00:09:21,000
+and making a plan
+before you start typing.
+
+192
+00:09:21,350 --> 00:09:23,000
+Why not add a review phase?
+
+193
+00:09:23,001 --> 00:09:26,000
+It only has to take five or 10 minutes.
+
+194
+00:09:26,100 --> 00:09:29,000
+In between your plan is
+finished and you start typing.
+
+195
+00:09:29,100 --> 00:09:33,000
+Why not have a video conference or
+two people behind the same computer,
+
+196
+00:09:33,001 --> 00:09:36,000
+chatting about the problem and
+how you want to approach the solution.
+
+197
+00:09:36,001 --> 00:09:37,276
+This is how you learn about the others,
+
+198
+00:09:37,300 --> 00:09:39,000
+train of thought when solving a problem.
+
+199
+00:09:39,100 --> 00:09:43,000
+The more exposed to other
+approaches to problems you are,
+
+200
+00:09:43,001 --> 00:09:45,291
+the more you will
+have available in
+
+201
+00:09:45,303 --> 00:09:48,000
+your toolbox for
+future problems as well.
+
+202
+00:09:48,001 --> 00:09:52,000
+My next tip is to learn your editor
+or IDE and your terminal really well
+
+203
+00:09:52,175 --> 00:09:56,000
+because it's the best way to get
+quick feedback from your tools.
+
+204
+00:09:56,001 --> 00:09:57,000
+You're about to make this error.
+
+205
+00:09:57,001 --> 00:09:59,000
+You're about to introduce this bug.
+
+206
+00:09:59,150 --> 00:10:01,000
+This thing might not work.
+
+207
+00:10:01,175 --> 00:10:04,000
+You have forgotten to include this file.
+
+208
+00:10:04,175 --> 00:10:07,000
+That's the kind of thing that the
+quicker you get your feedback,
+
+209
+00:10:07,001 --> 00:10:09,000
+the less bugs will end up in production.
+
+210
+00:10:09,075 --> 00:10:13,000
+The more high code quality
+you will be able to deliver.
+
+211
+00:10:13,001 --> 00:10:16,000
+The quicker you can get your
+thoughts into your keyword,
+
+212
+00:10:16,001 --> 00:10:19,000
+so to say, the less mistakes you will make.
+
+213
+00:10:19,001 --> 00:10:22,000
+My tip is to pick one editor,
+one IDE with your team
+
+214
+00:10:22,001 --> 00:10:26,000
+and to stick with it, to
+learn everything about it.
+
+215
+00:10:26,001 --> 00:10:30,000
+For example, Visual Studio
+Code has this tips and tricks page
+
+216
+00:10:30,001 --> 00:10:34,000
+and it has a lot of things that
+if you never went through this,
+
+217
+00:10:34,001 --> 00:10:39,000
+if you're just a new user or you're
+only using the typing code feature,
+
+218
+00:10:39,001 --> 00:10:42,000
+it will give you a lot of
+hints on what's available.
+
+219
+00:10:42,001 --> 00:10:44,000
+The command palette
+will make you a lot faster.
+
+220
+00:10:44,001 --> 00:10:46,000
+These are the default shortcuts.
+
+221
+00:10:46,050 --> 00:10:51,000
+I advise you to literally print out
+this shortcut sheet for your OS
+
+222
+00:10:51,001 --> 00:10:54,000
+and put it next to your
+computer for a week.
+
+223
+00:10:54,001 --> 00:10:56,000
+Yes, it will hurt in the beginning,
+
+224
+00:10:56,001 --> 00:10:58,121
+but at some point you'll
+just know all the shortcuts.
+
+225
+00:10:58,225 --> 00:11:02,000
+You can throw this sheet
+away and you're a ton faster
+
+226
+00:11:02,001 --> 00:11:05,000
+and it's more comfortable working
+with the tools you're working with.
+
+227
+00:11:06,350 --> 00:11:08,577
+There's all kinds
+of features that your
+
+228
+00:11:08,589 --> 00:11:11,000
+editor has that you're
+probably not using.
+
+229
+00:11:11,001 --> 00:11:14,000
+And exploring all of
+these and slowly deciding,
+
+230
+00:11:14,001 --> 00:11:17,000
+"I want to use this because
+this is an action I'm doing often,"
+
+231
+00:11:17,100 --> 00:11:20,000
+is a sort of automation
+mindset that will, again,
+
+232
+00:11:20,125 --> 00:11:24,000
+it will improve your life,
+it will make you quicker.
+
+233
+00:11:24,001 --> 00:11:27,000
+There's an integrated command
+line, there's a status bar,
+
+234
+00:11:27,001 --> 00:11:29,000
+there's all kinds of features here.
+
+235
+00:11:29,001 --> 00:11:31,000
+IntelliSense, what can it actually do?
+
+236
+00:11:33,525 --> 00:11:36,000
+Peak, go to definition, go to references.
+
+237
+00:11:36,001 --> 00:11:40,000
+There's many, many features here.
+
+238
+00:11:40,001 --> 00:11:43,000
+I have VS Code both on my
+private laptop and my work laptop
+
+239
+00:11:43,225 --> 00:11:45,053
+and I like to keep
+these things in sync
+
+240
+00:11:45,065 --> 00:11:47,000
+so that I always have
+the same shortcuts,
+
+241
+00:11:47,001 --> 00:11:49,000
+I have the same development environment
+
+242
+00:11:49,001 --> 00:11:51,519
+and when I need to
+install a new laptop or
+
+243
+00:11:51,531 --> 00:11:54,000
+whatever, I have
+this available instantly
+
+244
+00:11:54,001 --> 00:11:57,000
+and I have my environment
+set up really quickly.
+
+245
+00:11:57,001 --> 00:12:00,000
+And my last tip is to have pet
+projects to learn a specific skill.
+
+246
+00:12:00,001 --> 00:12:03,000
+I love having pet projects,
+I have a lot of them.
+
+247
+00:12:03,001 --> 00:12:06,000
+It's a great way to learn new things.
+
+248
+00:12:06,200 --> 00:12:08,000
+There's a danger with pet projects though.
+
+249
+00:12:08,001 --> 00:12:10,000
+Make sure you don't over commit.
+
+250
+00:12:10,001 --> 00:12:14,000
+It's just a pet project and there's
+a real chance you won't finish it.
+
+251
+00:12:14,425 --> 00:12:17,000
+So you'd better come up with some idea
+
+252
+00:12:17,125 --> 00:12:20,236
+that you're okay not
+finishing, especially
+
+253
+00:12:20,248 --> 00:12:23,000
+if you want to
+learn a specific skill
+
+254
+00:12:23,001 --> 00:12:24,000
+from your pet project.
+
+255
+00:12:24,001 --> 00:12:25,000
+Make sure you prioritize.
+
+256
+00:12:25,001 --> 00:12:29,000
+Do you want to have
+the app or the thing built?
+
+257
+00:12:29,001 --> 00:12:30,051
+Do you want to have it finished?
+
+258
+00:12:30,075 --> 00:12:32,000
+Or do you want to learn the skill?
+
+259
+00:12:32,001 --> 00:12:33,126
+It's the same things with books.
+
+260
+00:12:33,150 --> 00:12:37,000
+I feel okay reading a book for only half.
+
+261
+00:12:37,001 --> 00:12:39,014
+If I have thought
+of, before I read the
+
+262
+00:12:39,026 --> 00:12:41,000
+book, before I start
+reading the book,
+
+263
+00:12:41,001 --> 00:12:42,076
+I want to learn this one thing.
+
+264
+00:12:42,100 --> 00:12:43,220
+That's why I read this book.
+
+265
+00:12:43,300 --> 00:12:45,725
+If I'm halfway and
+I've learned the thing,
+
+266
+00:12:45,737 --> 00:12:48,000
+I will feel okay
+putting the book down.
+
+267
+00:12:48,250 --> 00:12:50,000
+The same with the pet project.
+
+268
+00:12:50,001 --> 00:12:52,000
+If you're in it for a specific skill,
+
+269
+00:12:52,450 --> 00:12:54,000
+you can ignore the pet project.
+
+270
+00:12:54,001 --> 00:12:56,000
+You don't have to feel bad for that.
+
+271
+00:12:56,001 --> 00:13:00,000
+An example from my own history
+is when I wanted to learn the MUI,
+
+272
+00:13:00,001 --> 00:13:03,000
+the Material UI React Component Framework.
+
+273
+00:13:03,001 --> 00:13:06,000
+I wanted to see how
+composable it actually was.
+
+274
+00:13:06,001 --> 00:13:08,000
+So I started my pet project.
+
+275
+00:13:08,001 --> 00:13:10,000
+I conceived of an ID.
+
+276
+00:13:10,001 --> 00:13:12,459
+I had the recipe manager 5000
+
+277
+00:13:12,484 --> 00:13:15,000
+because we were doing meal planning at home
+
+278
+00:13:15,001 --> 00:13:17,748
+and we were struggling
+with syncing our recipes
+
+279
+00:13:17,773 --> 00:13:19,228
+that we had a lot
+of that we wanted to
+
+280
+00:13:19,253 --> 00:13:21,000
+reuse, but they're all
+in different sources.
+
+281
+00:13:21,001 --> 00:13:24,426
+And we also had a problem
+with our shopping list.
+
+282
+00:13:24,451 --> 00:13:28,000
+We wanted to automatically add a
+whole bunch of things to our shopping list.
+
+283
+00:13:28,300 --> 00:13:30,000
+So I thought, why not make an app for that?
+
+284
+00:13:30,001 --> 00:13:33,266
+And this turned out to be an app
+that we're actually using nowadays.
+
+285
+00:13:33,291 --> 00:13:35,640
+But it didn't start that way.
+
+286
+00:13:35,665 --> 00:13:38,000
+It started out as me wanting to figure out.
+
+287
+00:13:38,400 --> 00:13:40,602
+how does MUI work?
+
+288
+00:13:40,627 --> 00:13:42,001
+But I got sidetracked.
+
+289
+00:13:42,275 --> 00:13:46,000
+We figured out when using it
+that we would need authentication,
+
+290
+00:13:46,001 --> 00:13:47,532
+we would need to
+actually host it, we would
+
+291
+00:13:47,544 --> 00:13:49,051
+need to do this and
+this and this and this
+
+292
+00:13:49,075 --> 00:13:51,476
+and that's not where I
+was learning anymore.
+
+293
+00:13:51,501 --> 00:13:54,575
+So this is where I lost a bit of
+motivation for my pet project
+
+294
+00:13:54,600 --> 00:13:58,000
+because I was initially in it to learn MUI.
+
+295
+00:13:58,175 --> 00:14:00,000
+And once I had achieved that goal,
+
+296
+00:14:00,200 --> 00:14:02,271
+there was less motivation
+for me to continue.
+
+297
+00:14:02,296 --> 00:14:05,000
+But in this case, we ended
+up actually using the app.
+
+298
+00:14:05,400 --> 00:14:07,000
+And now there's conflicting goals.
+
+299
+00:14:07,001 --> 00:14:11,000
+There's me wanting to learn some
+stuff, which was at some point achieved.
+
+300
+00:14:11,001 --> 00:14:15,000
+I know now of the composability
+and the limits of MUI.
+
+301
+00:14:15,200 --> 00:14:19,000
+And there's the goal of
+this app needs to work.
+
+302
+00:14:19,001 --> 00:14:22,000
+And I also needed to learn
+something like Firebase
+
+303
+00:14:22,001 --> 00:14:25,000
+and what to do to make
+sure authentication works,
+
+304
+00:14:25,001 --> 00:14:28,000
+to make sure we could
+host the backend database.
+
+305
+00:14:28,350 --> 00:14:30,000
+And that kind of stuff,
+that was conflicting.
+
+306
+00:14:30,001 --> 00:14:34,000
+And if you're not in it to
+manage that kind of stuff as well,
+
+307
+00:14:34,001 --> 00:14:37,000
+then you don't want to turn
+your app into a real use case app.
+
+308
+00:14:37,001 --> 00:14:38,000
+Then you're not in it for that.
+
+309
+00:14:38,001 --> 00:14:39,000
+Then you're just in it for learning it.
+
+310
+00:14:39,001 --> 00:14:43,000
+So that you stop halfway your
+project while it's not finished is fine
+
+311
+00:14:43,001 --> 00:14:45,000
+if you've achieved your learning goal.
+
+312
+00:14:45,375 --> 00:14:49,572
+To summarize, take a methodical
+approach to learning the language framework
+
+313
+00:14:49,597 --> 00:14:51,176
+and library as you're working with.
+
+314
+00:14:51,200 --> 00:14:54,000
+Make a plan, go through
+the plan step by step.
+
+315
+00:14:54,100 --> 00:14:56,000
+Make sure you read official docs.
+
+316
+00:14:56,001 --> 00:15:00,611
+Stay away from Stack Overflow,
+Copilot or ChatGPT to learn new things.
+
+317
+00:15:00,636 --> 00:15:03,520
+They will be getting
+your stuff working,
+
+318
+00:15:03,532 --> 00:15:06,000
+but they will not
+teach you new skills.
+
+319
+00:15:06,001 --> 00:15:09,000
+They will not teach you how a
+library is supposed to be used,
+
+320
+00:15:09,275 --> 00:15:14,000
+how, what a natural use case
+of this framework or language is.
+
+321
+00:15:14,001 --> 00:15:17,000
+In my experience, many
+times you need Stack Overflow,
+
+322
+00:15:17,001 --> 00:15:19,000
+you don't understand
+the problem well enough.
+
+323
+00:15:19,225 --> 00:15:23,000
+And lastly, make sure you collaborate
+with other people as much as possible.
+
+324
+00:15:23,150 --> 00:15:25,410
+Pair programming,
+code reviewing, all
+
+325
+00:15:25,422 --> 00:15:28,000
+these things will make
+you talk about code
+
+326
+00:15:28,001 --> 00:15:32,000
+that will give you insights into the
+other person's problem solving skills
+
+327
+00:15:32,001 --> 00:15:33,000
+and the way they approach problems.
+
+328
+00:15:33,001 --> 00:15:35,000
+And this will make you learn a lot quicker.
+
+329
+00:15:35,001 --> 00:15:36,000
+And that's it.
+
+330
+00:15:36,001 --> 00:15:37,000
+I hope you liked it.
+
+331
+00:15:37,001 --> 00:15:38,000
+I hope this was useful.
+
+332
+00:15:38,001 --> 00:15:39,891
+If you have any
+thoughts or if you have
+
+333
+00:15:39,903 --> 00:15:42,000
+an idea for a specific
+video in the future,
+
+334
+00:15:42,001 --> 00:15:44,000
+please let me know in the
+comments and subscribe.
+
+335
+00:15:44,001 --> 00:15:46,000
+Thank you very much for watching.
+
